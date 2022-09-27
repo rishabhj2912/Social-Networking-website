@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://civicsympathy:29122000ris@udemy.x7todbf.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "itsasecret",
+    "githubClientId":"5547a1bb0f926c17c249",
+    "githubSecret":"921944365b269c624af372852d8d47aab4981235"
+
+}
